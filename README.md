@@ -55,8 +55,8 @@ Script ini di modifikasi sama saya sendiri Ramlan.
 > pkg install mc
 > pkg install git
 > pkg install bash
-> git clone https://github.com/Ramlan666/sadbot
-> cd sadbot
+> git clone https://github.com/adi-sad/bot-adi
+> cd bot-adi
 > bash install.sh
 > node index.js
 > Tinggal scan kode qr yeee...done
@@ -71,8 +71,8 @@ Ket: Aktiv 24 jam
 
 ## SOSIAL MEDIA ADMIN <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/powerup.gif" width="29px">
 
-* [`Youtube Admin`](https://youtube.com/c/RamlanChannel21)
-* [`Instagram Admin`](https://instagram.com/iamramlan_)
+* [`Youtube Admin`](https://youtube.com/c/adil21)
+* [`Instagram Admin`](https://instagram.com/adixploit_)
 * [`WhatsApp Admin `](https://wa.me/+6283159675585)
 * [`Group WhatsApp `](https://chat.whatsapp.com/gk pnya gc)
 ## THANKS TO <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Handshake.gif" width="60px">
